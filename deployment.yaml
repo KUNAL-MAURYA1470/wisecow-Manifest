@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: wisecow-container
-          image: kunalmaurya/wisecow:app-6
+          image: kunalmaurya/wisecow:app-7
           ports:
             - containerPort: 4499
             
